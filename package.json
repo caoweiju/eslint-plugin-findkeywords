@@ -1,6 +1,6 @@
 {
-  "name": "@wmfe/eslint-plugin-findkeywords",
-  "version": "0.0.0",
+  "name": "eslint-plugin-findkeywords",
+  "version": "0.0.1",
   "description": "find keywords",
   "keywords": [
     "eslint",

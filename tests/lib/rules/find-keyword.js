@@ -35,6 +35,14 @@ ruleTester.run("find-keyword", rule, {
             errors: 1
         },
         {
+            code: "KNB.use('waimai.abc')",
+            errors: 1
+        },
+        {
+            code: "KNB.use('waimai.aert')",
+            errors: 1
+        },
+        {
             code: "KNB.use('waimai.waimaiPayForWMVIP')",
             errors: 1
         },

@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-findkeywords",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "find keywords",
   "keywords": [
     "eslint",
@@ -10,7 +10,7 @@
   "author": "caoweiju",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha tests --recursive"
+    "test": "npx mocha tests --recursive"
   },
   "dependencies": {
     "requireindex": "~1.1.0"
